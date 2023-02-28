@@ -4,7 +4,7 @@
 
 Product Reviews is a Ruby program that allows users to create and manage product reviews. It defines three classes: User, Product, and Review, and uses ActiveRecord to interact with a database.
 
-## Prerequisites
+## Programs Used
 - Ruby
 
 - ActiveRecord
