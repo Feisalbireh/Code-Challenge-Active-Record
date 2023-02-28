@@ -32,9 +32,9 @@ This class defines a user and has the following methods:
 ## Product class
 This class defines a product and has the following methods:
 
-`print_all_reviews`: prints all reviews for the product.
-`average_rating`: returns the average star rating for the product.
-`leave_review(user, star_rating, comment)`: creates a new review for the product.
+- `print_all_reviews`: prints all reviews for the product.
+- `average_rating`: returns the average star rating for the product.
+- `leave_review(user, star_rating, comment)`: creates a new review for the product.
 
 ## Review class
 This class defines a review and belongs to both a user and a product. It has the following method:
